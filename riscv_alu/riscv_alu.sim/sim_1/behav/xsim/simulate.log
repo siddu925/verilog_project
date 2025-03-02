@@ -1,0 +1,10 @@
+Time resolution is 1 ps
+time=                   0 	 op_1_in=00000005 	 op_2_in=00000003 	 opcode_in=0000 	 result_out=00000008
+time=                  20 	 op_1_in=00000005 	 op_2_in=00000003 	 opcode_in=1000 	 result_out=00000006
+time=                  30 	 op_1_in=00000005 	 op_2_in=00000003 	 opcode_in=0110 	 result_out=00000007
+time=                  40 	 op_1_in=00000005 	 op_2_in=00000003 	 opcode_in=0111 	 result_out=00000001
+time=                  50 	 op_1_in=00000005 	 op_2_in=00000003 	 opcode_in=0100 	 result_out=00000006
+time=                  60 	 op_1_in=00000005 	 op_2_in=00000003 	 opcode_in=0001 	 result_out=00000028
+time=                  70 	 op_1_in=00000005 	 op_2_in=00000003 	 opcode_in=0101 	 result_out=00000000
+time=                  80 	 op_1_in=00000005 	 op_2_in=00000003 	 opcode_in=0010 	 result_out=00000000
+$stop called at time : 90 ns : File "C:/Users/sidde/Desktop/Verilog/riscv_alu/riscv_alu.srcs/sim_1/new/riscv32_alu_tb.v" Line 50
