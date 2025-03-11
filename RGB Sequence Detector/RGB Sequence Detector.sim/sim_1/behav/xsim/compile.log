@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/sidde/Desktop/Verilog/RGB Sequence Detector/RGB Sequence Detector.srcs/sources_1/new/rgb_no_overlap.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module rgb_no_overlap
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/sidde/Desktop/Verilog/RGB Sequence Detector/RGB Sequence Detector.srcs/sim_1/new/rbg_no_overlap_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module rbg_no_overlap_tb

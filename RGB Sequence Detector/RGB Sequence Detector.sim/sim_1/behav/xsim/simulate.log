@@ -1,0 +1,17 @@
+Time resolution is 1 ps
+time=                   0 	 R=0 	 B=0 	 G=0 	 det=x
+time=                   5 	 R=0 	 B=0 	 G=0 	 det=0
+time=                  20 	 R=1 	 B=0 	 G=0 	 det=0
+time=                  30 	 R=0 	 B=1 	 G=0 	 det=0
+time=                  40 	 R=0 	 B=0 	 G=1 	 det=0
+time=                  45 	 R=0 	 B=0 	 G=1 	 det=1
+time=                  50 	 R=0 	 B=0 	 G=0 	 det=1
+time=                  55 	 R=0 	 B=0 	 G=0 	 det=0
+time=                  60 	 R=1 	 B=0 	 G=0 	 det=0
+time=                  70 	 R=0 	 B=1 	 G=0 	 det=0
+time=                  90 	 R=0 	 B=0 	 G=0 	 det=0
+time=                 110 	 R=0 	 B=0 	 G=1 	 det=0
+time=                 120 	 R=0 	 B=1 	 G=0 	 det=0
+time=                 130 	 R=1 	 B=0 	 G=0 	 det=0
+time=                 135 	 R=1 	 B=0 	 G=0 	 det=1
+$finish called at time : 140 ns : File "C:/Users/sidde/Desktop/Verilog/RGB Sequence Detector/RGB Sequence Detector.srcs/sim_1/new/rbg_no_overlap_tb.v" Line 48
