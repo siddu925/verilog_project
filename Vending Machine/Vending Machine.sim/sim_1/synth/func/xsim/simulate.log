@@ -1,0 +1,11 @@
+Time resolution is 1 ps
+time=                   0 	 start=0 	 in=0 	 	 coins=000 	 done=x 	 product=x 	 change=000
+time=                   0 	 start=0 	 in=0 	 	 coins=000 	 done=0 	 product=0 	 change=000
+time=                  20 	 start=1 	 in=0 	 	 coins=000 	 done=0 	 product=0 	 change=000
+time=                  40 	 start=1 	 in=0 	 	 coins=010 	 done=0 	 product=0 	 change=000
+time=                  70 	 start=1 	 in=1 	 	 coins=010 	 done=0 	 product=0 	 change=000
+time=                  80 	 start=1 	 in=1 	 	 coins=101 	 done=0 	 product=0 	 change=000
+time=                 110 	 start=1 	 in=0 	 	 coins=101 	 done=0 	 product=0 	 change=000
+time=                 135 	 start=1 	 in=0 	 	 coins=101 	 done=1 	 product=0 	 change=011
+time=                 145 	 start=1 	 in=0 	 	 coins=101 	 done=0 	 product=0 	 change=000
+$finish called at time : 180 ns : File "C:/Users/sidde/Desktop/Verilog/Vending Machine/Vending Machine.srcs/sim_1/new/vending_machine_tb.v" Line 68

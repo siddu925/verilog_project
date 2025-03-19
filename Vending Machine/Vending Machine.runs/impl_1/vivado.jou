@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.2 (64-bit)
+# SW Build 5239630 on Fri Nov 08 22:35:27 MST 2024
+# IP Build 5239520 on Sun Nov 10 16:12:51 MST 2024
+# SharedData Build 5239561 on Fri Nov 08 14:39:27 MST 2024
+# Start of session at: Wed Mar 19 14:13:22 2025
+# Process ID         : 25644
+# Current directory  : C:/Users/sidde/Desktop/Verilog/Vending Machine/Vending Machine.runs/impl_1
+# Command line       : vivado.exe -log vending_machine.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source vending_machine.tcl -notrace
+# Log file           : C:/Users/sidde/Desktop/Verilog/Vending Machine/Vending Machine.runs/impl_1/vending_machine.vdi
+# Journal file       : C:/Users/sidde/Desktop/Verilog/Vending Machine/Vending Machine.runs/impl_1\vivado.jou
+# Running On         : Siddesh
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 22631
+# Processor Detail   : AMD Ryzen 5 5500U with Radeon Graphics         
+# CPU Frequency      : 2096 MHz
+# CPU Physical cores : 6
+# CPU Logical cores  : 12
+# Host memory        : 6280 MB
+# Swap memory        : 7798 MB
+# Total Virtual      : 14079 MB
+# Available Virtual  : 1669 MB
+#-----------------------------------------------------------
+source vending_machine.tcl -notrace
