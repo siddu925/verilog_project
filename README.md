@@ -16,8 +16,23 @@ Design and implementation of a sequence detector that identifies a specific patt
 **Files:**
 - `rgb_sequence_detector.v`: Main Verilog module for the RGB sequence detector.
 - `rgb_sequence_detector_tb.v`: Testbench for simulating and verifying the detector's functionality.
+### 2. Vending Machine Controller  
 
-### 2. RISC-V ALU
+**Description:**  
+A Verilog-based **Vending Machine Controller** that accepts multiple coin inputs, dispenses products, and returns change dynamically.  
+
+**Features:**  
+- Implements a **Finite State Machine (FSM)** to manage vending transactions.  
+- Supports **multiple coin inputs** ($1, $2, and $5).  
+- Dispenses products like **Chocolate and Drink**.  
+- Returns **change** if extra money is inserted.  
+- Includes a **Testbench** for simulation and verification.  
+
+**Files:**  
+- `vending_machine.v`: Main Verilog module for the vending machine controller.  
+- `vending_machine_tb.v`: Testbench for simulating and verifying functionality.  
+
+### 3. RISC-V ALU
 
 **Description:**  
 Implementation of an Arithmetic Logic Unit (ALU) compatible with the RISC-V instruction set architecture.
