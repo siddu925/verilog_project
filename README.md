@@ -21,7 +21,7 @@ Design and implementation of a sequence detector that identifies a specific patt
 - You can access the project documentation here:  [RBG_no_overlapping.pptx](https://github.com/siddu925/verilog_project/blob/main/Project%20Documents/RBG_no_overlapping.pptx)  
 
 ---
-### 2. Vending Machine Controller  
+### 2. Vending Machine Controller(improved) 
 
 **Description:**  
 A Verilog-based vending machine controller designed for efficient and optimized product dispensing. It supports multiple coin inputs, precise change return, and reduced state complexity for improved efficiency.  
