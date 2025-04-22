@@ -42,8 +42,27 @@ A Verilog-based vending machine controller designed for efficient and optimized 
 
 ---
 
+### 3. True Dual-Port RAM  
 
-### 3. Vending Machine Controller  
+**Description:**  
+Design and implementation of a **True Dual-Port RAM** that allows simultaneous read/write operations on two independent ports (Port A and Port B), using Verilog HDL.  
+
+**Features:**  
+- 64x8-bit SRAM memory block.  
+- Concurrent access for Port A and Port B.  
+- Independent control signals for read/write operations.  
+- Clock-synchronized data handling.  
+- Fully tested using a Verilog testbench.  
+
+**Files:**  
+- `dual_port_ram.v`: Verilog module implementing the True Dual-Port RAM.  
+- `dual_port_ram_tb.v`: Testbench module for simulating and verifying functionality.
+
+**Documentation:**  
+- You can access the project documentation here: [Dual-Port RAM.pptx](https://github.com/siddu925/verilog_project/blob/main/Project%20Documents/dual%20port%20ram.pptx).
+
+---
+### 4. Vending Machine Controller  
 
 **Description:**  
 A Verilog-based **Vending Machine Controller** that accepts multiple coin inputs, dispenses products, and returns change dynamically.  
@@ -64,7 +83,7 @@ A Verilog-based **Vending Machine Controller** that accepts multiple coin inputs
 
 ---
 
-### 4. RISC-V ALU  
+### 5. RISC-V ALU  
 
 **Description:**  
 Implementation of an Arithmetic Logic Unit (ALU) compatible with the RISC-V instruction set architecture.  
