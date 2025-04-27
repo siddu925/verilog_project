@@ -4,12 +4,12 @@ This repository contains Verilog projects focused on digital circuit design and 
 
 ## Projects  
 
-# FIFO Memory Design in Verilog
+### 1.FIFO Memory Design in Verilog
 
-## Description:
+**Description:**
 Design and implementation of a **First-In-First-Out (FIFO) memory buffer** using **Verilog HDL** for efficient data management and transfer. The FIFO module is capable of handling sequential data storage and retrieval, with overflow and underflow management features.
 
-## Features:
+ **Features:**
 - **64-entry FIFO buffer** with **8-bit data width**.
 - Supports **read and write operations** with pointers for sequential data flow.
 - Automatic **overflow** and **underflow** handling.
@@ -19,17 +19,11 @@ Design and implementation of a **First-In-First-Out (FIFO) memory buffer** using
   - Buffer overflow and underflow handling.
   - Reset functionality to ensure correct system behavior.
 
-## Files:
+**Files:**
 - `fifo.v`: Main Verilog module for the FIFO buffer design.
 - `fifo.v`: Testbench for simulating and verifying FIFO functionality.
 
-
-## Tools Used:
-- **Verilog HDL**: For hardware description and design.
-- **Xilinx Vivado**: For simulation, verification, and FPGA-based design.
-- **FPGA (Field-Programmable Gate Array)**: Implementation of the FIFO design on FPGA hardware.
-
-## Documentation:
+**Documentation:**
 - You can access the project documentation and resources here: [FIFO.pptx](https://github.com/siddu925/verilog_project/blob/main/Project%20Documents/FIFO.pptx)
 ---
 ### 2. RGB Sequence Detector  
