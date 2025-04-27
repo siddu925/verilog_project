@@ -4,7 +4,35 @@ This repository contains Verilog projects focused on digital circuit design and 
 
 ## Projects  
 
-### 1. RGB Sequence Detector  
+# FIFO Memory Design in Verilog
+
+## Description:
+Design and implementation of a **First-In-First-Out (FIFO) memory buffer** using **Verilog HDL** for efficient data management and transfer. The FIFO module is capable of handling sequential data storage and retrieval, with overflow and underflow management features.
+
+## Features:
+- **64-entry FIFO buffer** with **8-bit data width**.
+- Supports **read and write operations** with pointers for sequential data flow.
+- Automatic **overflow** and **underflow** handling.
+- **Buffer full** and **empty status flags** for real-time monitoring of FIFO status.
+- Comprehensive **testbench** to verify FIFO functionality under various conditions.
+  - Simultaneous read and write operations.
+  - Buffer overflow and underflow handling.
+  - Reset functionality to ensure correct system behavior.
+
+## Files:
+- `fifo.v`: Main Verilog module for the FIFO buffer design.
+- `fifo.v`: Testbench for simulating and verifying FIFO functionality.
+
+
+## Tools Used:
+- **Verilog HDL**: For hardware description and design.
+- **Xilinx Vivado**: For simulation, verification, and FPGA-based design.
+- **FPGA (Field-Programmable Gate Array)**: Implementation of the FIFO design on FPGA hardware.
+
+## Documentation:
+- You can access the project documentation and resources here: [FIFO.pptx](https://github.com/siddu925/verilog_project/blob/main/Project%20Documents/FIFO.pptx)
+---
+### 2. RGB Sequence Detector  
 
 **Description:**  
 Design and implementation of a sequence detector that identifies a specific pattern within a stream of RGB inputs.  
@@ -21,7 +49,7 @@ Design and implementation of a sequence detector that identifies a specific patt
 - You can access the project documentation here:  [RBG_no_overlapping.pptx](https://github.com/siddu925/verilog_project/blob/main/Project%20Documents/RBG_no_overlapping.pptx)  
 
 ---
-### 2. Vending Machine Controller(improved) 
+### 3. Vending Machine Controller(improved) 
 
 **Description:**  
 A Verilog-based vending machine controller designed for efficient and optimized product dispensing. It supports multiple coin inputs, precise change return, and reduced state complexity for improved efficiency.  
@@ -42,7 +70,7 @@ A Verilog-based vending machine controller designed for efficient and optimized 
 
 ---
 
-### 3. True Dual-Port RAM  
+### 4. True Dual-Port RAM  
 
 **Description:**  
 Design and implementation of a **True Dual-Port RAM** that allows simultaneous read/write operations on two independent ports (Port A and Port B), using Verilog HDL.  
@@ -62,7 +90,7 @@ Design and implementation of a **True Dual-Port RAM** that allows simultaneous r
 - You can access the project documentation here: [Dual-Port RAM.pptx](https://github.com/siddu925/verilog_project/blob/main/Project%20Documents/dual%20port%20ram.pptx).
 
 ---
-### 4. Vending Machine Controller  
+### 5. Vending Machine Controller  
 
 **Description:**  
 A Verilog-based **Vending Machine Controller** that accepts multiple coin inputs, dispenses products, and returns change dynamically.  
@@ -83,7 +111,7 @@ A Verilog-based **Vending Machine Controller** that accepts multiple coin inputs
 
 ---
 
-### 5. RISC-V ALU  
+### 6. RISC-V ALU  
 
 **Description:**  
 Implementation of an Arithmetic Logic Unit (ALU) compatible with the RISC-V instruction set architecture.  
